@@ -1,0 +1,25 @@
+code {
+    background: #ddd;
+    padding: 0px 5px;
+    border-radius: 5px;
+}
+pre { 
+    color: #e84098;
+    background: #dddddd;
+    padding: 2% !important;
+    font-family: inherit;
+}
+
+.dateFormat_01 {
+    right: 20% !important;
+    top: 72px !important;
+    padding: 25px;
+    display: block;
+    text-align: right;
+    position: fixed;
+    color: #040404;
+}
+span.dateFormat_01:hover {
+    color: #ed41a1;
+    cursor: pointer;
+}
